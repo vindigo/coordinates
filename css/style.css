@@ -1,0 +1,17 @@
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+input { margin: 5px; }
+ button { margin: 10px 0 10px; }
+
+.container {
+    width: 750px;
+    margin: 0 auto;
+}

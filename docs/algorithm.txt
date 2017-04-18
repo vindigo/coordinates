@@ -1,0 +1,7 @@
+pull in data
+convert data into a hash
+separate data into components
+calculate distances
+insert results into an array with id:dist value pairs
+sort array (look at tree sorting for this)
+loop through array and output data
